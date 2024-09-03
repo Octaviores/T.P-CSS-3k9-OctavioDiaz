@@ -1,6 +1,1 @@
-<h1>Trabajo Práctico de CSS- Desarrollo de Software- 3k9</h1>
-Hola, soy el alumno Bruno Lucero. Para acceder a una vista previa del trabajo práctico, el cuál fue deployeado en Vercel, ingrese en el siguiente link: <br>
-https://tp-css-dsw-brunolucero-3k9.vercel.app/
-<br>
-Para acceder al código debe descargar el proyecto y abrirlo en su editor de código preferido, cómo Visual Studio Code. <br>
-Muchas gracias por su atención! Saludos. 
+Hola, soy Octavio Díaz. Para ingresar a mi página web , debe ingresar a este link: https://desarrollo-de-software-3k09-ipfgjmnx1-octaviores-projects.vercel.app Si quiere directamente utilizar mi código, descárgue el proyecto y abralo con Vistua Studio Code
